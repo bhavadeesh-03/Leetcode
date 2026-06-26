@@ -11,4 +11,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/bhavadeesh-03/Leetcode/tree/master/1732-find-the-highest-altitude) |
+## Tree
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/bhavadeesh-03/Leetcode/tree/master/1302-deepest-leaves-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/bhavadeesh-03/Leetcode/tree/master/1302-deepest-leaves-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/bhavadeesh-03/Leetcode/tree/master/1302-deepest-leaves-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/bhavadeesh-03/Leetcode/tree/master/1302-deepest-leaves-sum) |
 <!---LeetCode Topics End-->
