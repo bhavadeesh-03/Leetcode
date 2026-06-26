@@ -1,5 +1,6 @@
 class Solution {
 public:
+
     int countValidSubarrays(vector<int>& a, int x) {
         int n = a.size();
         long long c = 0;
@@ -7,10 +8,13 @@ public:
             long long ans = 0;
             for(int j = i;j < n;j++) {
                 ans += a[j];
-                int first = ans / pow(10, (int)log10(ans));
-                if(first == x && ans % 10 == x) c++;
+                if (ans > 0) {
+                    int first = ans / pow(10, (int)log10(ans));
+                    if (first == x && ans % 10 == x)
+                        c++;
+                }
             }
         }
         return c;
-    }
+}
 };
