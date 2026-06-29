@@ -5,7 +5,7 @@ public:
         sort(a.rbegin(),a.rend());
         for(int i = 0;i < k;i++) {
             if(mul > 0) {
-                s += (1ll * a[i] * mul);
+                s += (long long)a[i] * mul;
                 mul--;
             }
             else s += a[i];
