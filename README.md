@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/bhavadeesh-03/Leetcode/tree/master/0137-single-number-ii) |
+| [0682-baseball-game](https://github.com/bhavadeesh-03/Leetcode/tree/master/0682-baseball-game) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/bhavadeesh-03/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavadeesh-03/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/bhavadeesh-03/Leetcode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/bhavadeesh-03/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
