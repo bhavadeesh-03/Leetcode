@@ -9,7 +9,7 @@ public:
         }
         sort(v.begin(),v.end());
         long g = 0;
-        for(int i : v) cout << i << ' ';
+       // for(int i : v) cout << i << ' ';
         for(int i = 0;i < v.size() / 2;i++) {
             //cout << v[i] <<' '<< v[v.size() - i - 1] << '\n';
             g += gcd(v[i], v[v.size() - i - 1]);
