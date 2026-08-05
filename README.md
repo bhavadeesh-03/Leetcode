@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/bhavadeesh-03/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/bhavadeesh-03/Leetcode/tree/master/0137-single-number-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavadeesh-03/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/bhavadeesh-03/Leetcode/tree/master/0682-baseball-game) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/bhavadeesh-03/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/bhavadeesh-03/Leetcode/tree/master/0137-single-number-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/bhavadeesh-03/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sorting
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavadeesh-03/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhavadeesh-03/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/bhavadeesh-03/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
