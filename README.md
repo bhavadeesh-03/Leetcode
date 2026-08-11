@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/bhavadeesh-03/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhavadeesh-03/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/bhavadeesh-03/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/bhavadeesh-03/Leetcode/tree/master/0137-single-number-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/bhavadeesh-03/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0491-non-decreasing-subsequences](https://github.com/bhavadeesh-03/Leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/bhavadeesh-03/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhavadeesh-03/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/bhavadeesh-03/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/bhavadeesh-03/Leetcode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/bhavadeesh-03/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0318-maximum-product-of-word-lengths](https://github.com/bhavadeesh-03/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
