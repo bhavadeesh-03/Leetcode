@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/bhavadeesh-03/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavadeesh-03/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhavadeesh-03/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bhavadeesh-03/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/bhavadeesh-03/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavadeesh-03/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/bhavadeesh-03/Leetcode/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/bhavadeesh-03/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bhavadeesh-03/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavadeesh-03/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
