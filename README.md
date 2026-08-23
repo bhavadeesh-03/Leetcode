@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bhavadeesh-03/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/bhavadeesh-03/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0318-maximum-product-of-word-lengths](https://github.com/bhavadeesh-03/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [1927-sum-game](https://github.com/bhavadeesh-03/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavadeesh-03/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/bhavadeesh-03/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavadeesh-03/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavadeesh-03/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1927-sum-game](https://github.com/bhavadeesh-03/Leetcode/tree/master/1927-sum-game) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavadeesh-03/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhavadeesh-03/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/bhavadeesh-03/Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavadeesh-03/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhavadeesh-03/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
@@ -189,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/bhavadeesh-03/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
