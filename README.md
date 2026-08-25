@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/bhavadeesh-03/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/bhavadeesh-03/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/bhavadeesh-03/Leetcode/tree/master/0137-single-number-ii) |
+| [0204-count-primes](https://github.com/bhavadeesh-03/Leetcode/tree/master/0204-count-primes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/bhavadeesh-03/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0491-non-decreasing-subsequences](https://github.com/bhavadeesh-03/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavadeesh-03/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -108,12 +109,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bhavadeesh-03/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/bhavadeesh-03/Leetcode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhavadeesh-03/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/bhavadeesh-03/Leetcode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bhavadeesh-03/Leetcode/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavadeesh-03/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1927-sum-game](https://github.com/bhavadeesh-03/Leetcode/tree/master/1927-sum-game) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bhavadeesh-03/Leetcode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhavadeesh-03/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavadeesh-03/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -183,14 +187,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bhavadeesh-03/Leetcode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bhavadeesh-03/Leetcode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bhavadeesh-03/Leetcode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Game Theory
 |  |
