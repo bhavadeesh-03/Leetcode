@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/bhavadeesh-03/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavadeesh-03/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhavadeesh-03/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bhavadeesh-03/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3115-maximum-prime-difference](https://github.com/bhavadeesh-03/Leetcode/tree/master/3115-maximum-prime-difference) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/bhavadeesh-03/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0491-non-decreasing-subsequences](https://github.com/bhavadeesh-03/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1331-rank-transform-of-an-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhavadeesh-03/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/bhavadeesh-03/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavadeesh-03/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1927-sum-game](https://github.com/bhavadeesh-03/Leetcode/tree/master/1927-sum-game) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavadeesh-03/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3115-maximum-prime-difference](https://github.com/bhavadeesh-03/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhavadeesh-03/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/bhavadeesh-03/Leetcode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3115-maximum-prime-difference](https://github.com/bhavadeesh-03/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhavadeesh-03/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavadeesh-03/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -187,24 +191,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Primality Test
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bhavadeesh-03/Leetcode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3115-maximum-prime-difference](https://github.com/bhavadeesh-03/Leetcode/tree/master/3115-maximum-prime-difference) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bhavadeesh-03/Leetcode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bhavadeesh-03/Leetcode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Game Theory
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/bhavadeesh-03/Leetcode/tree/master/1927-sum-game) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
