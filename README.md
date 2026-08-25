@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/bhavadeesh-03/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/bhavadeesh-03/Leetcode/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/bhavadeesh-03/Leetcode/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavadeesh-03/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1927-sum-game](https://github.com/bhavadeesh-03/Leetcode/tree/master/1927-sum-game) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
