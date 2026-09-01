@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bhavadeesh-03/Leetcode/tree/master/0231-power-of-two) |
 | [0318-maximum-product-of-word-lengths](https://github.com/bhavadeesh-03/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0491-non-decreasing-subsequences](https://github.com/bhavadeesh-03/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/bhavadeesh-03/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/bhavadeesh-03/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sorting
 |  |
