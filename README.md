@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bhavadeesh-03/Leetcode/tree/master/0011-container-with-most-water) |
 | [0078-subsets](https://github.com/bhavadeesh-03/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhavadeesh-03/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/bhavadeesh-03/Leetcode/tree/master/0136-single-number) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhavadeesh-03/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/bhavadeesh-03/Leetcode/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/bhavadeesh-03/Leetcode/tree/master/0202-happy-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavadeesh-03/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bhavadeesh-03/Leetcode/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/bhavadeesh-03/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavadeesh-03/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
