@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/bhavadeesh-03/Leetcode/tree/master/1927-sum-game) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/bhavadeesh-03/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bhavadeesh-03/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3115-maximum-prime-difference](https://github.com/bhavadeesh-03/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhavadeesh-03/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/bhavadeesh-03/Leetcode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/bhavadeesh-03/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3115-maximum-prime-difference](https://github.com/bhavadeesh-03/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhavadeesh-03/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bhavadeesh-03/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/bhavadeesh-03/Leetcode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/bhavadeesh-03/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3115-maximum-prime-difference](https://github.com/bhavadeesh-03/Leetcode/tree/master/3115-maximum-prime-difference) |
 ## Sieve Theory
 |  |
@@ -217,12 +220,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/bhavadeesh-03/Leetcode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/bhavadeesh-03/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bhavadeesh-03/Leetcode/tree/master/0204-count-primes) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/bhavadeesh-03/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Game Theory
 |  |
 | ------- |
