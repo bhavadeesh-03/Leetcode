@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhavadeesh-03/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/bhavadeesh-03/Leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/bhavadeesh-03/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/bhavadeesh-03/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0318-maximum-product-of-word-lengths](https://github.com/bhavadeesh-03/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bhavadeesh-03/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/bhavadeesh-03/Leetcode/tree/master/0022-generate-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bhavadeesh-03/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/bhavadeesh-03/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhavadeesh-03/Leetcode/tree/master/0090-subsets-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/bhavadeesh-03/Leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/bhavadeesh-03/Leetcode/tree/master/0231-power-of-two) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/bhavadeesh-03/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
