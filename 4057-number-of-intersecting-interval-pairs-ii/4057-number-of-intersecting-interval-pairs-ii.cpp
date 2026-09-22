@@ -1,23 +1,21 @@
 class Solution {
 public:
-    int find(vector<vector<int>>& a,int n,int i){
-        int l = 0,r = n - 1;
-        while(l <= r){
-            int mid = (l + r) / 2;
-            if(a[mid][0] <= a[i][1]){
-                l = mid + 1;
-            }
-            else r = mid - 1;
-        }
-        return l - 1;
-    }
     long long countIntersectingIntervals(vector<vector<int>>& a) {
         long ans = 0;
-        sort(a.begin(),a.end());
+        sort(a.begin(), a.end(), [](const vector<int>& a, const vector<int>& b) {
+            return a[0] < b[0];
+        });
         int n = a.size();
         for(int i = 0;i < n;i++){
-            int idx = find(a, n, i);
-            ans += idx - i;
+            int idx = upper_bound(
+                        a.begin() + i + 1,
+                        a.end(),
+                        a[i][1],
+                        [](int v, const vector<int>& r) {
+                            return v < r[0];
+                        }
+                    ) - a.begin();
+            ans += idx - i - 1;
         }
         return ans;
     }
