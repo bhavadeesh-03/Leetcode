@@ -3,7 +3,6 @@ public:
     vector<string> ans;
     void Fun(string s, int o,int c, int n) {
         if(o == n && c == n) {
-            cout << s << '\n';
             ans.push_back(s);
             return;
         }
