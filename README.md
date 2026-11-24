@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/bhavadeesh-03/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bhavadeesh-03/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1914-cyclically-rotating-a-grid](https://github.com/bhavadeesh-03/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bhavadeesh-03/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/bhavadeesh-03/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/bhavadeesh-03/Leetcode/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/bhavadeesh-03/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1914-cyclically-rotating-a-grid](https://github.com/bhavadeesh-03/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/bhavadeesh-03/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/bhavadeesh-03/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bhavadeesh-03/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/bhavadeesh-03/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2614-prime-in-diagonal](https://github.com/bhavadeesh-03/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Queue
 |  |
