@@ -7,7 +7,7 @@ public:
         for (int i = 0; i < n; i++) {
             long long g = a[i],l = a[i],pro = 1;
             for (int j = i; j < n; j++) {
-                if (pro > 25200 / a[j]) break;
+                if (pro > 10000000000000000) break;
                 pro *= a[j];
                 g = gcd(g, (long long)a[j]);
                 l = lcm(l, (long long)a[j]);
